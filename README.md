@@ -1,6 +1,6 @@
 fsagent Cookbook
 ================
-TODO: Enter the cookbook description here.
+TODO: This cookbook will install a FireScope Agent on a linux node.
 
 e.g.
 This cookbook makes your favorite breakfast sandwich.
@@ -15,7 +15,10 @@ e.g.
 
 Attributes
 ----------
-TODO: List your cookbook attributes here.
+TODO: utilize attribute extensibility in recipe. 
+Utilize default attributes to account for platform "differences"
+
+
 
 e.g.
 #### fsagent::default
